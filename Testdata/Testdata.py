@@ -1,4 +1,4 @@
 class Filelocation():
     @staticmethod
     def get_path():
-        return "<notepad file path>"
+        return "C:\\Path.txt"
